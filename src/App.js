@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Img from './images/australia.jpeg';
+import Img from './images/worldmap.png';
 
 function draw(ctx, midX,midY,r, fill) 
 {
